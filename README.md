@@ -28,10 +28,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Charbel05/Charbel05/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3> Redes sociais </h3>
 
 <br clear="both">
